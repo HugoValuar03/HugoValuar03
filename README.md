@@ -1,4 +1,5 @@
-### Oii! Eu sou Hugo Valuar✌️
+### Oii! Eu sou Hugo Valuar😎
+<p1>Cursando Sistemas de Informação na Unitins</p1>
 
 ![Hugo Valuar Github Stats](https://github-readme-stats.vercel.app/api?username=HugoValuar03&show_icons=true&theme=radical)
 
