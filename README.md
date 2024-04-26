@@ -1,6 +1,6 @@
 ### Oii! Eu sou Hugo Valuar😎
-<p1>💻 Cursando Sistemas de Informação na Unitins</p1>
-<p1>🚀Em busca de novas oportunidades</p1>
+<p1>💻 Cursando Sistemas de Informação na Unitins</p1><br>
+<p1>🚀Em busca de novas oportunidades</p1><br>
 <p1>📔Estudando e aprimorando minhas habilidades diariamente</p1>
 
 ![Hugo Valuar Github Stats](https://github-readme-stats.vercel.app/api?username=HugoValuar03&show_icons=true&theme=radical)
