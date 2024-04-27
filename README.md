@@ -2,8 +2,7 @@
 <p1>💻 Cursando Sistemas de Informação na Unitins</p1><br/>
 <p1>🚀Em busca de novas oportunidades</p1><br/>
 <p1>📔Estudando e aprimorando minhas habilidades diariamente</p1>
-
-![Hugo Valuar GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoValuar03&show_icons=true&theme=radical)
+![Hugo Valuar GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoValuar03&theme=algolia&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoValuar03&theme=tokyonight)
 ## Tecnologias que eu ultilizo
 <div><br/>
