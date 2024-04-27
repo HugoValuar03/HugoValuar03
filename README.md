@@ -14,5 +14,5 @@
 <div><br/>
   <a href="https://www.instagram.com/huvaluar_/?next=%2F" target="_blank">
   <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  <a/>
+  </a>
 </div>
