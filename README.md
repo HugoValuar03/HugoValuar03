@@ -1,9 +1,9 @@
 ### Oii! Eu sou Hugo Valuar😎
 <p1>💻 Cursando Sistemas de Informação na Unitins</p1><br/>
 <p1>🚀Em busca de novas oportunidades</p1><br/>
-<p1>📔Estudando e aprimorando minhas habilidades diariamente</p1>
+<p1>📔Estudando e aprimorando minhas habilidades diariamente</p1><br/>
 ![Hugo Valuar GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoValuar03&theme=algolia&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoValuar03&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoValuar03&theme=algolia)
 ## Tecnologias que eu ultilizo
 <div><br/>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
