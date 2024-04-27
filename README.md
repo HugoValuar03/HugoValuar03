@@ -4,6 +4,7 @@
 <p1>📔Estudando e aprimorando minhas habilidades diariamente</p1>
 
 ![Hugo Valuar Github Stats](https://github-readme-stats.vercel.app/api?username=HugoValuar03&show_icons=true&theme=radical)
+![Linguagens que ultilizo](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoValuar03&theme=blue-green)
 
 ## Tecnologias que eu ultilizo
 <div><br/>
