@@ -3,7 +3,7 @@
 <p1>🚀Em busca de novas oportunidades</p1><br/>
 <p1>📔Estudando e aprimorando minhas habilidades diariamente</p1>
 
-![Hugo Valuar Github Stats](https://github-readme-stats.vercel.app/api?username=HugoValuar03&show_icons=true&theme=radical)
+![Hugo Valuar GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoValuar03&show_icons=true&theme=radical)
 ![Linguagens que ultilizo](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoValuar03&layout=compact)
 
 ## Tecnologias que eu ultilizo
