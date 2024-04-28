@@ -4,7 +4,7 @@
 <p1>📔Estudando e aprimorando minhas habilidades diariamente</p1><br/>
 ![Hugo Valuar GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoValuar03&theme=algolia&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoValuar03&theme=algolia)
-## Tecnologias que eu ultilizo
+## Tecnologias que eu utilizo
 <div><br/>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
